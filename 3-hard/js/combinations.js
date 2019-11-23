@@ -1,5 +1,11 @@
 "use strict";
 
+/* TODO: SOURCES
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters
+https://stackoverflow.com/questions/35368213/getting-arguments-passed-to-an-es6-arrow-function-using-arguments-variable
+*/
+
 /*
 TODO: Create a function that takes a variable number of groups of items,
  and returns the number of ways the items can be arranged,
